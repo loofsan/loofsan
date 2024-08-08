@@ -13,6 +13,10 @@ the managerial and business side.
 Some things I would love to explore in the future if I have the time is machine learning, deep learning and
 game development.
 
+<br />
+<hr />
+<br />
+
 ## **Languages & Tools I've Worked With** 
 
 | Java <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">  | Python <img src="https://img.shields.io/badge/-Python-lightblue?style=flat&logo=python&logoColor=black">  | Git <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"> | Most Experienced |
@@ -25,6 +29,9 @@ game development.
 > [!NOTE]
 > I'm currently looking for opportunities. I want to learn and contribute in any and every possible way.
 
+<br />
+<hr />
+<br />
 
 | *Here's to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They're not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can't do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do.* <br /> <br />  - Steve Jobs| <p>My Favorite Painting</p> <img src="/img1.jpeg" alt="Painting, Wanderer Above The Sea Of Fogs" width="1000"/>&nbsp; |
 |   :---:    |  :---:  | 
