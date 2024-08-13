@@ -33,6 +33,20 @@ game development.
 <hr />
 <br />
 
+| **Projects & Certifications**                                                                                                                | **Description**                                                                                                                                                      |
+|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [**Class Generator**](https://github.com/loofsan/Coding-Projects/tree/master/ClassGenerator-master)                         | Generates the best class for each course at Skyline, Cañada, CSM suited to the student.                                                                               |
+| [**Doubly Linked List**](https://github.com/loofsan/Coding-Projects/tree/master/DoublyLinkedList-main)                      | Built a doubly linked list from scratch in C++ and Java.                                                                                                             |
+| [**Ideal Gas Simulation**](https://github.com/loofsan/Coding-Projects/tree/master/IdealGasSimulation)                       | Demonstrated particle behavior in ideal gas modeled under the Maxwell-Boltzmann Distribution in JavaScript and Python.                                                |
+| [**AP Exam Policy Extension**](https://chromewebstore.google.com/detail/uc-ap-exam-policy-checker/lhmkeccgiphdegpelmommddcdlnpoaee?hl=en-US&utm_source=ext_sidebar) | Created a Chrome extension to easily check AP exam policies from the UC website.                                                                                     |
+| [**SkylineModelingSite**](https://skylinemodelingbookingsite.onrender.com/)                                                 | Developed a website for the Barbering, Cosmetology, and Esthetics program at Skyline College.                                                                         |
+| [**Demonstration Of Photo-Electric Effect Using PhotoDiodes & LEDs**](https://sites.google.com/my.smccd.edu/group11projectportfolio/home) | Observed the relationship between the efficiency of electricity transfer and the wavelength of light using LEDs and photodiodes.                                      |
+| [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/162db95a-cc67-416f-855d-a27b10d3b19e)                   | Certification for AWS Cloud Practitioner.                                                                                                                            |
+
+<br />
+<hr />
+<br />
+
 | *Here's to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They're not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can't do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do.* <br /> <br />  - Steve Jobs| <p>My Favorite Painting</p> <img src="/img1.jpeg" alt="Painting, Wanderer Above The Sea Of Fogs" width="1000"/>&nbsp; |
 |   :---:    |  :---:  | 
 
