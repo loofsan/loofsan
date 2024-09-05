@@ -48,9 +48,7 @@ game development.
 | [**Demonstration Of Photo-Electric Effect Using PhotoDiodes & LEDs**](https://sites.google.com/my.smccd.edu/group11projectportfolio/home) | Observed the relationship between the efficiency of electricity transfer and the wavelength of light using LEDs and photodiodes.                                      |
 | [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/162db95a-cc67-416f-855d-a27b10d3b19e)                   | Certification for AWS Cloud Practitioner.                                                                                                                            |
 
-<br />
 <hr />
-<br />
 
 | *Here's to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They're not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can't do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do.* <br /> <br />  - Steve Jobs| <p>My Favorite Painting</p> <img src="/img1.jpeg" alt="Painting, Wanderer Above The Sea Of Fogs" width="1000"/>&nbsp; |
 |   :---:    |  :---:  | 
