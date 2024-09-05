@@ -17,19 +17,17 @@ game development.
 <hr />
 <br />
 
-## **Languages & Tools I've Worked With** 
+<img src="/github-metrics.svg" alt="Metrics" align="left" width="615">
 
-<img src="/github-metrics.svg" alt="Metrics">
+| Java <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">  | Python <img src="https://img.shields.io/badge/-Python-lightblue?style=flat&logo=python&logoColor=black">  |
+|   :---------------:    |  :---------------:  |  
+| C++ <img src="https://img.shields.io/badge/-C++-blue?style=flat&logo=cplusplus&logoColor=white">  |  Javascript <img src="https://img.shields.io/badge/-Javascript-1a1919?style=flat&logo=javascript&logoColor=c9bb1c"> |  
+|Git <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"> | GitHub <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"> | 
+| React <img src="https://img.shields.io/badge/-React-404040?style=flat&logo=react&logoColor=lightblue"> | Typescript <img src="https://img.shields.io/badge/-Typescript-6dc9c8?style=flat&logo=typescript&logoColor=white"> | 
+| NodeJs <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"> | HTML, CSS <img src="https://img.shields.io/badge/-HTML5-db5807?style=flat&logo=html5&logoColor=adacac"> <img src="https://img.shields.io/badge/-CSS-bdbdbd?style=flat&logo=css3&logoColor=086382"> | 
+| JSON <img src="https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json">  | ExpressJs <img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs"> | 
+| Render <img src="https://img.shields.io/badge/-Render-black?style=flat-square&logo=render"> | Arduino <img src="https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino">  | 
 
-| Java <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">  | Python <img src="https://img.shields.io/badge/-Python-lightblue?style=flat&logo=python&logoColor=black">  | Git <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"> | Most Experienced |
-|   :---:    |  :---:  |  :---:  |  :---:  | 
-| C++ <img src="https://img.shields.io/badge/-C++-blue?style=flat&logo=cplusplus&logoColor=white">  |  Javascript <img src="https://img.shields.io/badge/-Javascript-1a1919?style=flat&logo=javascript&logoColor=c9bb1c"> | GitHub <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"> | \| |
-| React <img src="https://img.shields.io/badge/-React-404040?style=flat&logo=react&logoColor=lightblue"> | Typescript <img src="https://img.shields.io/badge/-Typescript-6dc9c8?style=flat&logo=typescript&logoColor=white"> | NodeJs <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"> | \| |
-| HTML, CSS <img src="https://img.shields.io/badge/-HTML5-db5807?style=flat&logo=html5&logoColor=adacac"> <img src="https://img.shields.io/badge/-CSS-bdbdbd?style=flat&logo=css3&logoColor=086382"> | JSON <img src="https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json">  | ExpressJs <img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs"> | \| |
-| Render <img src="https://img.shields.io/badge/-Render-black?style=flat-square&logo=render"> | Arduino <img src="https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino">  |  Julia <img src="https://img.shields.io/badge/-Julia-1a1919?style=flat&logo=julia&logoColor=red">  | Least Experienced |
-
-> [!NOTE]
-> I'm currently looking for opportunities. I want to learn and contribute in any and every possible way.
 
 <br />
 <hr />
