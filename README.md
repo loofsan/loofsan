@@ -17,7 +17,7 @@ game development.
 <hr />
 <br />
 
-<img src="/github-metrics.svg" alt="Metrics" align="left" width="459">
+<img src="/github-metrics.svg" alt="Metrics" align="left" width="463">
 
 | Java <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">  | Python <img src="https://img.shields.io/badge/-Python-lightblue?style=flat&logo=python&logoColor=black">  |
 |   :---------------:    |  :---------------:  |  
