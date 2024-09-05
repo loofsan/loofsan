@@ -34,6 +34,9 @@ game development.
 
 <img src="/img3.jpg" alt="Fish" width="355">
 
+<br />
+<br />
+
 | **Projects & Certifications**                                                                                                                | **Description**                                                                                                                                                      |
 |----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**Class Generator**](https://github.com/loofsan/Coding-Projects/tree/master/ClassGenerator-master)                         | Generates the best class for each course at Skyline, Cañada, CSM suited to the student.                                                                               |
