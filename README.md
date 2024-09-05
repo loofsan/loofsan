@@ -36,6 +36,8 @@ game development.
 
 <br />
 <br />
+<br />
+<br />
 
 | **Projects & Certifications**                                                                                                                | **Description**                                                                                                                                                      |
 |----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -46,6 +48,7 @@ game development.
 | [**SkylineModelingSite**](https://skylinemodelingbookingsite.onrender.com/)                                                 | Developed a website for the Barbering, Cosmetology, and Esthetics program at Skyline College.                                                                         |
 | [**Demonstration Of Photo-Electric Effect Using PhotoDiodes & LEDs**](https://sites.google.com/my.smccd.edu/group11projectportfolio/home) | Observed the relationship between the efficiency of electricity transfer and the wavelength of light using LEDs and photodiodes.                                      |
 | [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/162db95a-cc67-416f-855d-a27b10d3b19e)                   | Certification for AWS Cloud Practitioner.                                                                                                                            |
+
 <br />
 <hr />
 <br />
