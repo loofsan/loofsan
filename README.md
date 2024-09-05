@@ -19,6 +19,8 @@ game development.
 
 ## **Languages & Tools I've Worked With** 
 
+<img src="/github-metrics.svg" alt="Metrics">
+
 | Java <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">  | Python <img src="https://img.shields.io/badge/-Python-lightblue?style=flat&logo=python&logoColor=black">  | Git <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"> | Most Experienced |
 |   :---:    |  :---:  |  :---:  |  :---:  | 
 | C++ <img src="https://img.shields.io/badge/-C++-blue?style=flat&logo=cplusplus&logoColor=white">  |  Javascript <img src="https://img.shields.io/badge/-Javascript-1a1919?style=flat&logo=javascript&logoColor=c9bb1c"> | GitHub <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"> | \| |
