@@ -28,10 +28,11 @@ game development.
 | JSON <img src="https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json">  | ExpressJs <img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs"> | 
 | Render <img src="https://img.shields.io/badge/-Render-black?style=flat-square&logo=render"> | Arduino <img src="https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino">  | 
 
-
 <br />
 <hr />
 <br />
+
+<img src="/img2.jpg" alt="Metrics" align="left" width="500">
 
 | **Projects & Certifications**                                                                                                                | **Description**                                                                                                                                                      |
 |----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
