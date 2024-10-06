@@ -17,30 +17,73 @@ game development.
 <hr />
 <br />
 
-<div align="center">
-  <img src="/github-metrics.svg" alt="Metrics" width="50%">
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="/github-metrics.svg" alt="Metrics" width="100%">
+    </td>
+    <td>
+      <table>
+        <tr>
+          <th>Language/Tool</th>
+          <th>Badge</th>
+          <th>Language/Tool</th>
+          <th>Badge</th>
+        </tr>
+        <tr>
+          <td>Java</td>
+          <td><img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white" alt="Java"></td>
+          <td>Python</td>
+          <td><img src="https://img.shields.io/badge/-Python-lightblue?style=flat&logo=python&logoColor=black" alt="Python"></td>
+        </tr>
+        <tr>
+          <td>C++</td>
+          <td><img src="https://img.shields.io/badge/-C++-blue?style=flat&logo=cplusplus&logoColor=white" alt="C++"></td>
+          <td>Javascript</td>
+          <td><img src="https://img.shields.io/badge/-Javascript-1a1919?style=flat&logo=javascript&logoColor=c9bb1c" alt="Javascript"></td>
+        </tr>
+        <tr>
+          <td>Git</td>
+          <td><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git"></td>
+          <td>GitHub</td>
+          <td><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub"></td>
+        </tr>
+        <tr>
+          <td>React</td>
+          <td><img src="https://img.shields.io/badge/-React-404040?style=flat&logo=react&logoColor=lightblue" alt="React"></td>
+          <td>Typescript</td>
+          <td><img src="https://img.shields.io/badge/-Typescript-6dc9c8?style=flat&logo=typescript&logoColor=white" alt="Typescript"></td>
+        </tr>
+        <tr>
+          <td>NodeJs</td>
+          <td><img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" alt="NodeJs"></td>
+          <td>HTML, CSS</td>
+          <td>
+            <img src="https://img.shields.io/badge/-HTML5-db5807?style=flat&logo=html5&logoColor=adacac" alt="HTML"> 
+            <img src="https://img.shields.io/badge/-CSS-bdbdbd?style=flat&logo=css3&logoColor=086382" alt="CSS">
+          </td>
+        </tr>
+        <tr>
+          <td>JSON</td>
+          <td><img src="https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json" alt="JSON"></td>
+          <td>ExpressJs</td>
+          <td><img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs" alt="ExpressJs"></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<br />
+<hr />
+<br />
 
 <!---
-| Java <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">  | Python <img src="https://img.shields.io/badge/-Python-lightblue?style=flat&logo=python&logoColor=black">  | Most Experienced |
-|   :---------------:    |  :---------------:  | :---------------: |
-| C++ <img src="https://img.shields.io/badge/-C++-blue?style=flat&logo=cplusplus&logoColor=white">  |  Javascript <img src="https://img.shields.io/badge/-Javascript-1a1919?style=flat&logo=javascript&logoColor=c9bb1c"> | \| |
-|Git <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"> | GitHub <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"> | \| |
-| React <img src="https://img.shields.io/badge/-React-404040?style=flat&logo=react&logoColor=lightblue"> | Typescript <img src="https://img.shields.io/badge/-Typescript-6dc9c8?style=flat&logo=typescript&logoColor=white"> | \| |
-| NodeJs <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"> | HTML, CSS <img src="https://img.shields.io/badge/-HTML5-db5807?style=flat&logo=html5&logoColor=adacac"> <img src="https://img.shields.io/badge/-CSS-bdbdbd?style=flat&logo=css3&logoColor=086382"> | \| |
-| JSON <img src="https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json">  | ExpressJs <img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs"> | \| |
-| Render <img src="https://img.shields.io/badge/-Render-black?style=flat-square&logo=render"> | Arduino <img src="https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino">  | Least Experienced |
-
-<br />
-<hr />
-<br />
-
-<img src="/img3.jpg" alt="Fish" width="200">
+<img src="/img3.jpg" alt="Fish" width="25%">
 
 <br />
 <br />
 <hr />
-
 --->
 
 | **Projects & Certifications**                                                                                                                | **Description**                                                                                                                                                      |
