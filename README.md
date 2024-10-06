@@ -17,8 +17,9 @@ game development.
 <hr />
 <br />
 
-<img src="/github-metrics.svg" alt="Metrics" align="left" width="320">
+<img src="/github-metrics.svg" alt="Metrics" align="center" width="100%">
 
+<!---
 | Java <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">  | Python <img src="https://img.shields.io/badge/-Python-lightblue?style=flat&logo=python&logoColor=black">  | Most Experienced |
 |   :---------------:    |  :---------------:  | :---------------: |
 | C++ <img src="https://img.shields.io/badge/-C++-blue?style=flat&logo=cplusplus&logoColor=white">  |  Javascript <img src="https://img.shields.io/badge/-Javascript-1a1919?style=flat&logo=javascript&logoColor=c9bb1c"> | \| |
@@ -37,6 +38,8 @@ game development.
 <br />
 <br />
 <hr />
+
+--->
 
 | **Projects & Certifications**                                                                                                                | **Description**                                                                                                                                                      |
 |----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
