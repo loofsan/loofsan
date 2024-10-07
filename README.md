@@ -22,8 +22,12 @@ game development.
     <td>
       <img src="/github-metrics.svg" alt="Metrics" width="100%">
     </td>
-    <td>
-      <table>
+    <td width="60%">
+      <img src="/img2.jpg" alt="Top Image" width="100%">
+      <br>
+      <br>
+      <br>
+      <table align="center">
         <tr>
           <th>Language/Tool</th>
           <th>Badge</th>
@@ -70,6 +74,9 @@ game development.
           <td><img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs" alt="ExpressJs"></td>
         </tr>
       </table>
+      <br>
+      <br>
+      <img src="/img3.jpg" alt="Bot Image" width="100%">
     </td>
   </tr>
 </table>
