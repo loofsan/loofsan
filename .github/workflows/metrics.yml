@@ -48,7 +48,9 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_limit: 7
-          plugin_achievements_threshold: C
+          # plugin_achievements: yes
+          # plugin_achievements_display: compact
+          # plugin_achievements_limit: 7
+          # plugin_achievements_threshold: C
+          plugin_projects: yes
+          plugin_projects_repositories: loofsan/CSProjects
