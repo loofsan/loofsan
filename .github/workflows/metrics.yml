@@ -15,7 +15,7 @@ jobs:
     steps:
       - name: General
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master/@main
+        uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
