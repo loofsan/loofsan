@@ -104,7 +104,7 @@ game development.
 
 <hr />
 
-| *I tell you, in this world, being a little crazy helps to keep you sane.* <br /> <br />  - Zsa Zsa Gabor| <p>My Favorite Painting</p> <img src="/img1.jpeg" alt="Painting, Wanderer Above The Sea Of Fogs" width="1000"/>&nbsp; |
+| *I tell you, in this world, being a little crazy helps to keep you sane.* <br /> <br />  - Zsa Zsa Gabor| <p>My Favorite Painting</p> <img src="/img1.jpeg" alt="Painting, Wanderer Above The Sea Of Fogs" width="500"/>&nbsp; |
 |   :---:    |  :---:  | 
 
 
