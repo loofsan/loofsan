@@ -22,7 +22,7 @@ game development.
     <td>
       <img src="/github-metrics.svg" alt="Metrics" width="100%">
     </td>
-    <td width="60%">
+    <td width="50%">
       <img src="/img4.png" alt="Top Image" width="100%">
       <br>
       <br>
