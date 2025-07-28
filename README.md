@@ -13,9 +13,7 @@ the managerial and business side.
 Some things I would love to explore in the future if I have the time is machine learning, deep learning and
 game development.
 
-<br />
 <hr />
-<br />
 
 | **Projects & Certifications**                                                                                                                | **Description**                                                                                                                                                      |
 |----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
