@@ -1,10 +1,10 @@
 ## Hello Everyone
 
-### I'm **Lynn** 
+### I'm Lynn.
 
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
-and I'm currently a computer science student bound to graduate in May, 2027. 
+I'm currently a computer science student bound to graduate in May, 2028 with a Bachelors. 
 
 I think computer science as a general major is a really vast and boundless field. I've delved into cybersecurity, cloud development,
 data-structures and algorithms, web development and circuits. I'm aiming to be a full-stack developer, although, I'm also interested in 
