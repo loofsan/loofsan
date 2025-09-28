@@ -13,83 +13,34 @@ the managerial and business side.
 Some things I would love to explore in the future if I have the time is machine learning, deep learning and
 game development.
 
-<hr />
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,js,html,css,express,fastapi,nodejs,nextjs,docker,git,github,vscode&perline=14)](https://skillicons.dev)
 
-| **Projects & Certifications**                                                                                                                | **Description**                                                                                                                                                      |
-|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [**FedVentura**](https://fedventura.com/)                       | FedVentura is a full-stack web application that combines AI-driven business recommendations with a comprehensive resource ecosystem to guide laid-off employees toward entrepreneurship. The platform features secure authentication, persistent user profiles, and intelligent course matching across major learning platforms, all built on a modern tech stack of Next.js 14, TypeScript, Supabase, and Google Gemini AI.                                                |
-| [**Ideal Gas Simulation**](https://lynnparticles.onrender.com/)                       | Demonstrated particle behavior in ideal gas modeled under the Maxwell-Boltzmann Distribution in JavaScript and Python.                                                |
-| [**AP Exam Policy Extension**](https://chromewebstore.google.com/detail/uc-ap-exam-policy-checker/lhmkeccgiphdegpelmommddcdlnpoaee?hl=en-US&utm_source=ext_sidebar) | Created a Chrome extension to easily check AP exam policies from the UC website.                                                                                     |
-| [**SkylineModelingSite**](https://skylinemodelingbookingsite.onrender.com/)                                                 | Developed a website for the Barbering, Cosmetology, and Esthetics program at Skyline College.                                                                         |
-| [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/162db95a-cc67-416f-855d-a27b10d3b19e)                   | Certification for AWS Cloud Practitioner.                                                                                                                            |
+<!--
+      | **Projects & Certifications**                                                                                                                | **Description**                                                                                                                                                      |
+      |----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+      | [**FedVentura**](https://fedventura.com/)                       | FedVentura is a full-stack web application that combines AI-driven business recommendations with a comprehensive resource ecosystem to guide laid-off employees toward entrepreneurship. The platform features secure authentication, persistent user profiles, and intelligent course matching across major learning platforms, all built on a modern tech stack of Next.js 14, TypeScript, Supabase, and Google Gemini AI.                                                |
+      | [**Ideal Gas Simulation**](https://lynnparticles.onrender.com/)                       | Demonstrated particle behavior in ideal gas modeled under the Maxwell-Boltzmann Distribution in JavaScript and Python.                                                |
+      | [**AP Exam Policy Extension**](https://chromewebstore.google.com/detail/uc-ap-exam-policy-checker/lhmkeccgiphdegpelmommddcdlnpoaee?hl=en-US&utm_source=ext_sidebar) | Created a Chrome extension to easily check AP exam policies from the UC website.                                                                                     |
+      | [**SkylineModelingSite**](https://skylinemodelingbookingsite.onrender.com/)                                                 | Developed a website for the Barbering, Cosmetology, and Esthetics program at Skyline College.                                                                         |
+      | [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/162db95a-cc67-416f-855d-a27b10d3b19e)                   | Certification for AWS Cloud Practitioner.                                                                                                                            |
+-->
 
-<hr />
+<!--
+      ![Java](https://img.shields.io/badge/Java-F89820?style=flat&logo=java&logoColor=white)
+      ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+      ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+      ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+      ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+      ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+      ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+      ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+      ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+      ![Express.js](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+      ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+      ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+      ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
+-->
 
-<table>
-  <tr>
-<!--     <td>
-      <img src="/github-metrics.svg" alt="Metrics" width="100%">
-    </td> -->
-    <td width="50%">
-      <img src="/img4.png" alt="Top Image" width="100%">
-      <br>
-      <br>
-      <br>
-      <table align="center">
-        <tr>
-          <th>Language/Tool</th>
-          <th>Badge</th>
-          <th>Language/Tool</th>
-          <th>Badge</th>
-        </tr>
-        <tr>
-          <td>Java</td>
-          <td><img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white" alt="Java"></td>
-          <td>Python</td>
-          <td><img src="https://img.shields.io/badge/-Python-lightblue?style=flat&logo=python&logoColor=black" alt="Python"></td>
-        </tr>
-        <tr>
-          <td>C++</td>
-          <td><img src="https://img.shields.io/badge/-C++-blue?style=flat&logo=cplusplus&logoColor=white" alt="C++"></td>
-          <td>Javascript</td>
-          <td><img src="https://img.shields.io/badge/-Javascript-1a1919?style=flat&logo=javascript&logoColor=c9bb1c" alt="Javascript"></td>
-        </tr>
-        <tr>
-          <td>Git</td>
-          <td><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git"></td>
-          <td>GitHub</td>
-          <td><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub"></td>
-        </tr>
-        <tr>
-          <td>React</td>
-          <td><img src="https://img.shields.io/badge/-React-404040?style=flat&logo=react&logoColor=lightblue" alt="React"></td>
-          <td>Typescript</td>
-          <td><img src="https://img.shields.io/badge/-Typescript-6dc9c8?style=flat&logo=typescript&logoColor=white" alt="Typescript"></td>
-        </tr>
-        <tr>
-          <td>NodeJs</td>
-          <td><img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" alt="NodeJs"></td>
-          <td>HTML, CSS</td>
-          <td>
-            <img src="https://img.shields.io/badge/-HTML5-db5807?style=flat&logo=html5&logoColor=adacac" alt="HTML"> 
-            <img src="https://img.shields.io/badge/-CSS-bdbdbd?style=flat&logo=css3&logoColor=086382" alt="CSS">
-          </td>
-        </tr>
-        <tr>
-          <td>JSON</td>
-          <td><img src="https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json" alt="JSON"></td>
-          <td>ExpressJs</td>
-          <td><img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs" alt="ExpressJs"></td>
-        </tr>
-      </table>
-      <br>
-      <br>
-      <img src="/img3.jpg" alt="Bot Image" width="100%">
-    </td>
-  </tr>
-</table>
-
-<br />
 <hr />
 <br />
 
@@ -101,7 +52,7 @@ game development.
 <hr />
 --->
 
-| *I tell you, in this world, being a little crazy helps to keep you sane.* <br /> <br />  - Zsa Zsa Gabor| <p>My Favorite Painting</p> <img src="/img1.jpeg" alt="Painting, Wanderer Above The Sea Of Fogs" width="450"/>&nbsp; <br /> *Wanderer above the Sea of Fog* <br /> - Painting by Caspar David Friedrich |
+| *I tell you, in this world, being a little crazy helps to keep you sane.* <br /> <br />  - Zsa Zsa Gabor| <img src="/img1.jpeg" alt="Painting, Wanderer Above The Sea Of Fogs" width="450"/>&nbsp; <br /> *Wanderer above the Sea of Fog* <br /> - Painting by Caspar David Friedrich |
 |   :---:    |  :---:  | 
 
 
