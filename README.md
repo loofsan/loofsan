@@ -52,9 +52,12 @@ game development.
 <hr />
 --->
 
-| *I tell you, in this world, being a little crazy helps to keep you sane.* <br /> <br />  - Zsa Zsa Gabor| <img src="/img1.jpeg" alt="Painting, Wanderer Above The Sea Of Fogs" width="450"/>&nbsp; <br /> *Wanderer above the Sea of Fog* <br /> - Painting by Caspar David Friedrich |
-|   :---:    |  :---:  | 
+<div align="center">
 
+| *I tell you, in this world, being a little crazy helps to keep you sane.* <br><br> – Zsa Zsa Gabor | <img src="/img1.jpeg" alt="Painting, Wanderer Above The Sea Of Fogs" width="200"/> <br> *Wanderer above the Sea of Fog* <br> – Painting by Caspar David Friedrich |
+|:---:|:---:|
+
+</div>
 
 <!--
 **loofsan/loofsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
