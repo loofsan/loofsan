@@ -51,11 +51,18 @@ game development.
 <br />
 <hr />
 --->
+<div align="center" style="display: flex; flex-direction: col; align-items: center; justify-content: center; gap: 30px;">
 
-<div align="center">
+  <div>
+    <em>I tell you, in this world, being a little crazy helps to keep you sane.</em><br><br>
+    – Zsa Zsa Gabor
+  </div>
 
-| *I tell you, in this world, being a little crazy helps to keep you sane.* <br><br> – Zsa Zsa Gabor | <img src="/img1.jpeg" alt="Painting, Wanderer Above The Sea Of Fogs" width="200"/> <br> *Wanderer above the Sea of Fog* <br> – Painting by Caspar David Friedrich |
-|:---:|:---:|
+  <div>
+    <img src="/img1.jpeg" alt="Painting, Wanderer Above The Sea Of Fogs" width="200"/><br>
+    <em>Wanderer above the Sea of Fog</em><br>
+    – Painting by Caspar David Friedrich
+  </div>
 
 </div>
 
