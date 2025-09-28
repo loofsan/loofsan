@@ -42,8 +42,6 @@ game development.
 -->
 
 <hr />
-<br />
-
 <!---
 <img src="/img3.jpg" alt="Fish" width="25%">
 
