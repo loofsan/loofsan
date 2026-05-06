@@ -13,6 +13,8 @@ the managerial and business side.
 Some things I would love to explore in the future if I have the time is machine learning, deep learning and
 game development.
 
+[Visit My Portfolio](https://loofsan.github.io/)
+
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,js,html,css,express,fastapi,nodejs,nextjs,docker,git,github,vscode&perline=14)](https://skillicons.dev)
 
 <!--
